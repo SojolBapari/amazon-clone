@@ -1,0 +1,23 @@
+.header img{
+    width: 500px;
+}
+div{
+    margin-top: 10px;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    line-height: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+    margin-right: 30px;
+    font-style:inherit;
+    color: aliceblue;
+    font-size:x-large;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: rgb(167, 165, 165);
+}
